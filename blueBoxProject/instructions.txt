@@ -1,17 +1,13 @@
-[4:43:21 PM] Lawrence Vanderpool: it’s just gonna stop expanding
-[4:43:22 PM] Lawrence Vanderpool: in the next few years
-[4:43:30 PM] Lawrence Vanderpool: What job do you want?
-[4:43:39 PM] Lawrence Vanderpool: Front end developer, back end developer, full stack developer?
-[4:43:41 PM] Lawrence Vanderpool: UI developer?
-[4:43:43 PM] Lawrence Vanderpool: Designer?
-[4:43:51 PM] Lawrence Vanderpool: each one of these has a few different requirements
-[4:44:06 PM] Lawrence Vanderpool: all the ‘developer’ jobs though which are actually programming
-[4:44:10 PM] Lawrence Vanderpool: require these base skills:
-[4:44:13 PM] Lawrence Vanderpool: 1) command line
-[4:44:16 PM] Lawrence Vanderpool: 2) editor proficiency
-[4:44:24 PM] Lawrence Vanderpool: 3) git. git git git git git learn it love it live it git it.
-[4:44:35 PM] Lawrence Vanderpool: 4) some kind of portfolio (I got lucky and was able to skip this.)
-[4:44:54 PM] Lawrence Vanderpool: and then
-[4:44:58 PM] Lawrence Vanderpool: the basic skills of whatever your field
-[4:45:02 PM] Lawrence Vanderpool: for front end: html/css/javascript
+[4:48:39 PM] Lawrence Vanderpool: make a page
+[4:48:41 PM] Lawrence Vanderpool: that has a blue box
+[4:48:52 PM] Lawrence Vanderpool: in that blue box is the words “Hello World"
+[4:49:03 PM] Lawrence Vanderpool: in white or black depending on which shade of blue you choose
+[4:49:07 PM] Lawrence Vanderpool: that blue box should be
+[4:49:13 PM] Lawrence Vanderpool: vertically and horizontally centered on the screen
+[4:49:16 PM] Lawrence Vanderpool: and
+[4:49:20 PM] Lawrence Vanderpool: when you CLICK the blue box
+[4:49:35 PM] Lawrence Vanderpool: the text inside it should move from the top to the bottom, bottom to the top etc
+[4:49:44 PM] Lawrence Vanderpool: so if it’s at the top and i click the box the text moves to the bottom
+[4:49:52 PM] Lawrence Vanderpool: so write this little app and put it on github
+[4:51:14 PM] Lawrence Vanderpool: how does that sound
 
